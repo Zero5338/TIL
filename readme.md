@@ -1,6 +1,12 @@
-## 소개 
-### '오늘의 고민이 내일의 나를 만들고 세상을 바꾼다.' 
+# 소개 
+### '오늘의 고민이 내일의 나를 만들고 새로운 노말을 만든다.' 
 ### 기술적인 고민들을 기록하는 공간입니다.
 
 
-# 📂 Categories
+# 📂 Categorie
+
+## Web
+## Frontend
+## Backend
+## Database
+## TroubleShooting
