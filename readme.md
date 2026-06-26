@@ -7,7 +7,7 @@
 
 ## Web
 1. CORS란 무엇인가?
-2. https://velog.io/@taehoon1195/CORS%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C
+  https://velog.io/@taehoon1195/CORS%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C
 ## Frontend
 ## Backend
 ## Database
