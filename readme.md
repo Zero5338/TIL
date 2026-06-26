@@ -6,6 +6,7 @@
 # 📂 Categorie
 
 ## Web
+1. CORS란 무엇인가?
 ## Frontend
 ## Backend
 ## Database
